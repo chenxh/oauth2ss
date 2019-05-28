@@ -1,0 +1,42 @@
+# maven ignore
+target/
+bin/
+*.jar
+*.war
+*.zip
+*.tar
+*.tar.gz
+
+# eclipse ignore
+.settings/
+.project
+.classpath
+.metadata/
+
+# idea ignore
+.idea/
+*.ipr
+*.iml
+*.iws
+rebel.xml
+
+# temp ignore
+*.log
+*.cache
+*.diff
+*.patch
+*.tmp
+
+# system ignore
+.DS_Store
+Thumbs.db
+logs
+
+# sencha 
+build/
+classic.json
+classic.jsonp
+bootstrap.json
+bootstrap.jsonp
+bootstrap.css
+bootstrap.js
